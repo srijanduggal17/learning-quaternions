@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"79b5443f215d8f35","type":"file","file":"Assets/Pasted image 20260311221557.png","x":-20,"y":-121,"width":355,"height":400},
+		{"id":"59ebc0dac7fb7c52","type":"text","text":"In aerospace we often use yaw-pitch-roll (intrinsic order). First rotate about Z-axis (yaw). Then rotate about new Y-Axis (pitch). Then rotate about new X-Axis (roll)","x":-40,"y":-271,"width":360,"height":111},
+		{"id":"fcd5edf53ab6bce6","type":"text","text":"Two perspectives for the same rotations\n\nIntrinsic - Rotations around body axes\n\nExtrinsic - rotations around world frame axes","x":-500,"y":-271,"width":360,"height":150},
+		{"id":"f65aafa4c95159ab","type":"text","text":"yaw-pitch-roll is normally intrinsic ZYX order for euler angles.\n\nThis is equivalent to extrinsic XYZ order","x":-500,"y":-40,"width":360,"height":150},
+		{"id":"ad555a5d07c00337","type":"file","file":"Assets/Equivalence of Intrinsic and Extrinsic.pdf","x":-500,"y":180,"width":400,"height":400},
+		{"id":"bf306327a1c23176","type":"text","text":"To rotate a vector V by intrinsic ZYX (aka extrinsic XYZ) you do the following:\n\nRz \\*  Ry \\* Rx \\* v\n\nWith quaternions it's the same thing. If you had quaternions representing rotations about X, Y, Z axes:\n\n$q_{rot} = q_z \\cdot q_y \\cdot q_x$\n\n$q_{rot} \\cdot v \\cdot q_{rot}^{-1}$\n","x":-20,"y":327,"width":440,"height":293}
+	],
+	"edges":[]
+}
