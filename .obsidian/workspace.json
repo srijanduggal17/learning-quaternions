@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6cc1fca1c64d8fa6",
+        "id": "7ae926da235ce84c",
         "type": "tabs",
         "children": [
           {
-            "id": "61bd5100f3797d01",
+            "id": "cc530cfa1f954c38",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Sources + References.md",
-                "mode": "source",
-                "source": false
+                "file": "Quaternion Ideas.md"
               },
-              "icon": "lucide-file",
-              "title": "Sources + References"
+              "icon": "excalidraw-icon",
+              "title": "Quaternion Ideas"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources + References.md",
+                "file": "Quaternion Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sources + References"
+              "title": "Backlinks for Quaternion Ideas"
             }
           },
           {
@@ -113,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sources + References.md",
+                "file": "Quaternion Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sources + References"
+              "title": "Outgoing links from Quaternion Ideas"
             }
           },
           {
@@ -156,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources + References.md",
+                "file": "Quaternion Ideas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sources + References"
+              "title": "Outline of Quaternion Ideas"
             }
           }
         ]
@@ -181,22 +179,36 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "61bd5100f3797d01",
+  "active": "cc530cfa1f954c38",
   "lastOpenFiles": [
-    "Time Propagation of Quaternions.md",
-    "Using Quaternions to Rotate Vectors.md",
-    "Active vs Passive Rotations.md",
     "000 Quaternion Learning.md",
-    "Intrinsic and Extrinsic Rotations in Euler Angles.canvas",
-    "Quaternion Arithmetic.md",
-    "Quaternion Ideas.md",
-    "Quaternions Ideas.excalidraw",
-    "Interpolation using SLERP.md",
     "General Quaternion Concepts.md",
+    "Active vs Passive Rotations.md",
+    "Pasted image 20260319214902.png",
+    "Pasted image 20260319214843.png",
+    "Numerical Integration of Orientation from Gyro.md",
+    "Time Derivative of Quaternions.md",
+    "Assets/QuaternionUKFpaper.pdf",
+    "Assets/UKFpaper.pdf",
+    "Assets/Rate of Change of Orientation.pdf",
+    "Rotating Orientations by Rotations in the Body Frame vs Global Frame.md",
+    "Intrinsic and Extrinsic Rotations in Euler Angles.canvas",
+    "Interpolation using SLERP.md",
+    "Quaternion Arithmetic.md",
+    "Recording 20260319220141.m4a",
+    "Untitled.base",
+    "To-Do/2026-03-19.md",
+    "To-Do/Untitled.md",
+    "To-Do",
+    "Using Quaternions to Rotate Vectors.md",
     "Sources + References.md",
+    "Quaternion Ideas.md",
+    "README.md",
+    "Quaternions Ideas.excalidraw",
     "Assets/Pasted Image 20260311225200_292.png",
     "Assets/Pasted image 20260311221557.png",
     "Assets/Geometric Slerp Derivation.pdf"
